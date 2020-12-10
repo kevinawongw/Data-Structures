@@ -1,0 +1,6 @@
+cities,Boulder,Denver,Chicago,Boston,Austin
+Boulder,0,2,15,-1,-1
+Denver,2,0,10,-1,8
+Chicago,15,10,0,5,-1
+Boston,-1,-1,5,0,-1
+Austin,-1,8,-1,-1,0
